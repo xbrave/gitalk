@@ -1,2 +1,2 @@
-# gitalk
-This public repository is used for [gitalk](https://github.com/gitalk/gitalk) comments
+# talk
+This public repository is used for [utteranc](https://utteranc.es/) blog comments
